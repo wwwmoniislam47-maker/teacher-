@@ -1,0 +1,17 @@
+name: ethical_hacking_full_app_v2
+description: Full-featured ethical hacking assistant app.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/data/
